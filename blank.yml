@@ -1,0 +1,8 @@
+<heml>
+<head>
+   <title>this is my home page</head>
+</head>
+ <body>
+  echo "heelo welcome to my git ";
+  </body>
+</html>
